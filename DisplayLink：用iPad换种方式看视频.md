@@ -8,7 +8,7 @@ DisplayLink
     接下来就是笔者最喜欢的Displaylink了，首先它是一款免费的软件，其次他是一款屏幕扩展软件，平时用低分屏笔记本办公的笔者总是觉得桌面空间不够用，有了DisplayLink之后我们就相当于多了一个显示器，这样就可以把非编辑界面的窗口拖到iPad屏幕上进行显示，这样我们可以通过他来看视频、看新闻，看直播。
 
 
-![](https://gitee.com/tpxipster/tpxip-galaxy/raw/master/vnote笔记汇/displaylink：用ipad换种方式看视频.md/cedCsNn6eAnPs.png)
+![](http://localUbuntu/tpxipster/tpxip-galaxy/vnote笔记汇/displaylink：用ipad换种方式看视频.md/cedCsNn6eAnPs.png)
 
 
 
@@ -18,7 +18,7 @@ DisplayLink
 
 
 
-![](https://gitee.com/tpxipster/tpxip-galaxy/raw/master/vnote笔记汇/displaylink：用ipad换种方式看视频.md/ceDaY9avPdbFE.png)
+![](http://localUbuntu/tpxipster/tpxip-galaxy/vnote笔记汇/displaylink：用ipad换种方式看视频.md/ceDaY9avPdbFE.png)
 
 
 下载PC客户端
@@ -27,21 +27,21 @@ http://ipad.displaylink.com/
 
 
 
-![](https://gitee.com/tpxipster/tpxip-galaxy/raw/master/vnote笔记汇/displaylink：用ipad换种方式看视频.md/cejgQ5HVKbEi2.png)
+![](http://localUbuntu/tpxipster/tpxip-galaxy/vnote笔记汇/displaylink：用ipad换种方式看视频.md/cejgQ5HVKbEi2.png)
 
 
 PC端仅需输入密码即可使用
 
 
 
-![](https://gitee.com/tpxipster/tpxip-galaxy/raw/master/vnote笔记汇/displaylink：用ipad换种方式看视频.md/ce7GK9I8KTJ1c.png)
+![](http://localUbuntu/tpxipster/tpxip-galaxy/vnote笔记汇/displaylink：用ipad换种方式看视频.md/ce7GK9I8KTJ1c.png)
 
 
 iPad上的客户端，很简洁
     打开iPad上的客户端之后稍等一会儿就能搜索到附近所有使用DisplayLink电脑客户端的用户，找到自己的名称之后点击一下输入密码就能使用了，第一次连接电脑会进行一下视频，屏幕会有黑屏闪动现象。
 `
 
-![](https://gitee.com/tpxipster/tpxip-galaxy/raw/master/vnote笔记汇/displaylink：用ipad换种方式看视频.md/ceCEjopoZwoUo.png)
+![](http://localUbuntu/tpxipster/tpxip-galaxy/vnote笔记汇/displaylink：用ipad换种方式看视频.md/ceCEjopoZwoUo.png)
 
 `
 
@@ -50,7 +50,7 @@ iPad以被识别成第二屏幕
 
 
 
-![](https://gitee.com/tpxipster/tpxip-galaxy/raw/master/vnote笔记汇/displaylink：用ipad换种方式看视频.md/ce9nerwKmDlk6.png)
+![](http://localUbuntu/tpxipster/tpxip-galaxy/vnote笔记汇/displaylink：用ipad换种方式看视频.md/ce9nerwKmDlk6.png)
 
 
 使用Intel的My WiFi技术加快传输速度
@@ -58,21 +58,21 @@ iPad以被识别成第二屏幕
 
 
 
-![](https://gitee.com/tpxipster/tpxip-galaxy/raw/master/vnote笔记汇/displaylink：用ipad换种方式看视频.md/ceWcbFl2Ul2E.jpeg)
+![](http://localUbuntu/tpxipster/tpxip-galaxy/vnote笔记汇/displaylink：用ipad换种方式看视频.md/ceWcbFl2Ul2E.jpeg)
 
 
 用了My WiFi iPad就只能识别出笔者的电脑
 
 
 
-![](https://gitee.com/tpxipster/tpxip-galaxy/raw/master/vnote笔记汇/displaylink：用ipad换种方式看视频.md/cerIOt5gp9bGI.jpeg)
+![](http://localUbuntu/tpxipster/tpxip-galaxy/vnote笔记汇/displaylink：用ipad换种方式看视频.md/cerIOt5gp9bGI.jpeg)
 
 
 通过DisplayLink看视频
 
 
 
-![](https://gitee.com/tpxipster/tpxip-galaxy/raw/master/vnote笔记汇/displaylink：用ipad换种方式看视频.md/ceo2Xdp94YtIg.jpeg)
+![](http://localUbuntu/tpxipster/tpxip-galaxy/vnote笔记汇/displaylink：用ipad换种方式看视频.md/ceo2Xdp94YtIg.jpeg)
 
 
 通过DisplayLink看NBA网页直播

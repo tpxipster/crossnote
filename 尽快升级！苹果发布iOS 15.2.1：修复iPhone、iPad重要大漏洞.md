@@ -17,7 +17,7 @@ modified: 2022-02-03T08:53:32.751Z
 
 因为这个漏洞在最坏的情况下可能导致数据丢失，在最好的情况下可能导致设备重置，所以值得立即更新到iOS和iPadOS 15.2.1更新。
 
-[![](https://gitee.com/tpxipster/tpxip-galaxy/raw/master/vnote笔记汇/尽快升级！苹果发布ios%2015.2.1：修复iphone、ipad重要大漏洞.md/s_a549b19ead1d45ff860cb8439abf38_bdb0f2c07b9e44599.jpg)](https://img1.mydrivers.com/img/20220113/a549b19ead1d45ff860cb8439abf3878.jpg)
+[![](http://localUbuntu/tpxipster/tpxip-galaxy/vnote笔记汇/尽快升级！苹果发布ios%2015.2.1：修复iphone、ipad重要大漏洞.md/s_a549b19ead1d45ff860cb8439abf38_bdb0f2c07b9e44599.jpg)](https://img1.mydrivers.com/img/20220113/a549b19ead1d45ff860cb8439abf3878.jpg)
 
 此文章为快科技原创文章，快科技网站保留文章图片及文字内容版权，如需转载此文章请注明出处：快科技
 

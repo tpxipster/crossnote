@@ -36,9 +36,9 @@ Linksys Velop 、NETGEAR Orbi之类的只是无线回程有线回程组网，可
 
 ## 外观展示
 
-![5c2f0fa3da54d6024](https://gitee.com/tpxipster/tpxip-galaxy/raw/master/强内生活/mesh—我的分布式路由器%20选购思路和部署.md/206002608211522.jpg)
+![5c2f0fa3da54d6024](http://localUbuntu/tpxipster/tpxip-galaxy/强内生活/mesh—我的分布式路由器%20选购思路和部署.md/206002608211522.jpg)
 
-![5c2f0fb99adf6267](https://gitee.com/tpxipster/tpxip-galaxy/raw/master/强内生活/mesh—我的分布式路由器%20选购思路和部署.md/494492608223612.jpg)
+![5c2f0fb99adf6267](http://localUbuntu/tpxipster/tpxip-galaxy/强内生活/mesh—我的分布式路由器%20选购思路和部署.md/494492608223612.jpg)
 
 ## 使用感受
 
@@ -46,13 +46,13 @@ Linksys Velop 、NETGEAR Orbi之类的只是无线回程有线回程组网，可
 
 ### 原始环境
 
-![5c2f1133d2b2b4425](https://gitee.com/tpxipster/tpxip-galaxy/raw/master/强内生活/mesh—我的分布式路由器%20选购思路和部署.md/310082708228651.png)
+![5c2f1133d2b2b4425](http://localUbuntu/tpxipster/tpxip-galaxy/强内生活/mesh—我的分布式路由器%20选购思路和部署.md/310082708228651.png)
 
 这是我原来的使用环境大概80平米，因为联通入户线位置的问题路由器只能摆在那个位置相对来说所有房间都能无线覆盖，用的是极路由4。各房间大概都是承重墙隔开的，只要一关上门5G信号衰减很厉害，2.4G信号是满格的但是实际使用起来效果不理想（可能是因为家里面关联2.4G的网络设备比较多智能监控插排扫地机器人乱七八糟的设备比较多）。而且因为路由器不支持mimo，只能先入先出的工作模式，所以有时候信号是满的但是无线网络依然卡顿。
 
 ### 网络变更后
 
-![5c2f1a904edd13552](https://gitee.com/tpxipster/tpxip-galaxy/raw/master/强内生活/mesh—我的分布式路由器%20选购思路和部署.md/559932708229946.png)
+![5c2f1a904edd13552](http://localUbuntu/tpxipster/tpxip-galaxy/强内生活/mesh—我的分布式路由器%20选购思路和部署.md/559932708229946.png)
 
 网络变更后通过千兆交换机把每个房间的信息点连接起来做有线回程，让AC3900M通过网线连接回程。
 **这样网络连接速率反而比三频路由器使用800兆无线专用信道连接更稳定速度更快。**
@@ -60,7 +60,7 @@ Linksys Velop 、NETGEAR Orbi之类的只是无线回程有线回程组网，可
 **这样网络连接速率反而比三频路由器使用800兆无线专用信道连接更稳定速度更快。    **
 更改后当终端无线信号减弱时会自动切换到信号强的路由器上。用手机测试切换时间都是ms级别的。
 
-![5c2f1c491d5ab586](https://gitee.com/tpxipster/tpxip-galaxy/raw/master/强内生活/mesh—我的分布式路由器%20选购思路和部署.md/266802808230948.jpg)
+![5c2f1c491d5ab586](http://localUbuntu/tpxipster/tpxip-galaxy/强内生活/mesh—我的分布式路由器%20选购思路和部署.md/266802808230948.jpg)
 
 如果是一般家庭用户上网，视频等多媒体应用这个路由器就很好。（如果玩游戏对延迟要求高，可以通过AC3900M带的双网口用网线直接连接到电脑，这样下来绝对比无线延迟低，而且稳定不收信号干扰影响，简直完美。）
 
@@ -69,13 +69,13 @@ Linksys Velop 、NETGEAR Orbi之类的只是无线回程有线回程组网，可
 假如家里面已经有一台高性能路由器不想更换，只是因为房子太大无线信号覆盖不好，能不能使用Velop AC3900M 当纯的无线接入设备用。
 答案是可以的~
 
-![11115c2f20fc0a2486278](https://gitee.com/tpxipster/tpxip-galaxy/raw/master/强内生活/mesh—我的分布式路由器%20选购思路和部署.md/57672908231125.jpg)
-![22225c2f21272eb955768](https://gitee.com/tpxipster/tpxip-galaxy/raw/master/强内生活/mesh—我的分布式路由器%20选购思路和部署.md/157272908216677.png)
+![11115c2f20fc0a2486278](http://localUbuntu/tpxipster/tpxip-galaxy/强内生活/mesh—我的分布式路由器%20选购思路和部署.md/57672908231125.jpg)
+![22225c2f21272eb955768](http://localUbuntu/tpxipster/tpxip-galaxy/强内生活/mesh—我的分布式路由器%20选购思路和部署.md/157272908216677.png)
 
 
 ### 我家现在的网络架构
 
-![33335c2f219ca33454302](https://gitee.com/tpxipster/tpxip-galaxy/raw/master/强内生活/mesh—我的分布式路由器%20选购思路和部署.md/519522908232956.jpg)
+![33335c2f219ca33454302](http://localUbuntu/tpxipster/tpxip-galaxy/强内生活/mesh—我的分布式路由器%20选购思路和部署.md/519522908232956.jpg)
 现在的网络架构使用三层设计：
 路由器只负责家里到互联网的数据交换，只做路由功能性能强劲！
 
